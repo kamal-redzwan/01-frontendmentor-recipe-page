@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/using-plain-html-and-css-for-this-challenge-ElH3ThfkVY)
+- Live Site URL: [Github Pages](https://kamal-redzwan.github.io/01-frontendmentor-recipe-page/)
 
 ## My process
 
@@ -43,7 +43,7 @@ Some things that I've learn for this project is:-
 - My first mistake was not adding <p> tags on <li> and found a but that didn't align the paragraphs.
 - Changing the background from white on small breakpoints to colored background on bigger breakpoint.
 - Adding the container padding for the larger breakpoint.
-- Making the text align for the 'Nutritional' section. Setting witdh to a percentage fixed it.
+- Making the text align for the 'Nutritional' section. Setting width to a percentage fixed it.
 
 ### Continued development
 
